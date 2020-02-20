@@ -24,4 +24,4 @@ resultado = cl.predict([[peso, superficie]])
 if resultado == 1:
     print("É uma Maça")
 else:
-    print("É uma Banaca")
+    print("É uma Banana")
