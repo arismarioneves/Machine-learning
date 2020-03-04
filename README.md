@@ -1,4 +1,4 @@
-# Machine-learning
+# Machine-Learning
 This is a code wrote in Python, where we teach to the computer how to identificate if a fruit is an Apple or a Banana.
 
 Scikit-learn requires:<br>
