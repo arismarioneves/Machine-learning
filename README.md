@@ -1,5 +1,5 @@
 # Machine-Learning
-This is a code wrote in Python, where is asked to the computer if a fruit is an Apple or a Orange.
+This is a code wrote in Python, where is asked for the computer if a fruit is an apple or a orange.
 
 Scikit-learn requires:<br>
 Python (>= 2.7 or >= 3.4),<br>
