@@ -1,4 +1,4 @@
-# Machine-Learning
+# Decision Trees
 This is a code wrote in Python, where is asked to the computer if a fruit is an Apple or a Orange.
 
 Scikit-learn requires:<br>
